@@ -29,8 +29,9 @@ TODO
 | Name | Description | Link |
 | --- | --- | --- |
 | JXing | I collaborated by "transcribing" the implementation of reading EAN13 from Java (JXing) to TypeScript | [:octocat:](https://github.com/zxing-js/library) [:earth_africa:](https://zxing-js.github.io/library/) |
-| Apache jclouds | I made several fixes and some new implementations, the most notable PRs were those related to Azure, such as the choice of the type of disks for root and data | [:octocat:](https://github.com/apache/jclouds) [:earth_africa:](http://jclouds.apache.org/) |
+| Apache jclouds | I made several fixes and some new implementations, the most notable PRs were those related to Azure, such as the choice of the type of disks for root and data | <img width="40">[:octocat:](https://github.com/apache/jclouds) [:earth_africa:](http://jclouds.apache.org/) |
 | Docker distribution | I've added an optional parameter to enable S3 Transfer acceleration via the AWS SDK for the S3 storage driver | [:octocat:](https://github.com/distribution/distribution) [:earth_africa:](https://www.docker.com/) |
+
 
 <hr>
 
