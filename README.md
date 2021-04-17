@@ -12,7 +12,9 @@
 <img src="https://cdn.worldvectorlogo.com/logos/debian-2.svg" height="40px" title="Proud Debian user"> <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="40px" title="Spring Boot"> 
 <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" height="40px" title="Kotlin"> <img src="https://cdn.worldvectorlogo.com/logos/gopher.svg" height="40px" title="Golang">
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="40px" title="Python"> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="40px" title="Docker">
+<img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" height="40px" title="Amazon Web Services"> <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" height="40px" title="Google Cloud Platform">
 <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" height="40px" title="Favourite IDE">
+
 
 <hr>
 
