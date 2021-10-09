@@ -30,9 +30,13 @@ TODO
 
 | Name | Description | Link |
 | --- | --- | --- |
-| JXing | I collaborated by "transcribing" the implementation of reading EAN13 from Java (JXing) to TypeScript | [:octocat:](https://github.com/zxing-js/library) [:earth_africa:](https://zxing-js.github.io/library/) |
-| Apache jclouds | I made several fixes and some new implementations, the most notable PRs were those related to Azure, such as the choice of the type of disks for root and data | [:octocat:](https://github.com/apache/jclouds) [:earth_africa:](http://jclouds.apache.org/) |
-| Docker distribution | I've added an optional parameter to enable S3 Transfer acceleration via the AWS SDK for the S3 storage driver | [:octocat:](https://github.com/distribution/distribution) [:earth_africa:](https://www.docker.com/) |
+| JXing | I transcribed the implementation of reading EAN-13 from Java (JXing)
+to TypeScript and I fixed the sample demo | [:octocat:](https://github.com/zxing-js/library) [:earth_africa:](https://zxing-js.github.io/library/) |
+| Apache jclouds | I made several adjustments and some new implementations, the
+most notable PRs were those related to Azure, such as the choice of the type of disks for root and data | [:octocat:](https://github.com/apache/jclouds) [:earth_africa:](http://jclouds.apache.org/) |
+| Microsoft ReactXP | I made two TypeScript plugins: the first to allow translation of the
+strings and the second to allow the barcode scanning | [:octocat:](https://github.com/microsoft/reactxp) [:earth_africa:](https://microsoft.github.io/reactxp/) |
+| Docker distribution | I’ve collaborated on a PR written in Golang that was inactive. The code’s purpose is to activate “S3 Transfer Acceleration” via the AWS SDK | [:octocat:](https://github.com/distribution/distribution) [:earth_africa:](https://www.docker.com/) |
 | | | <img width="80"> |
 
 
