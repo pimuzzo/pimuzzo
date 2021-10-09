@@ -26,7 +26,7 @@ TODO
 <hr>
 -->
 
-## 🤝 Contributions
+## 🤝 Open source contributions
 
 | Name | Description | Link |
 | --- | --- | --- |
