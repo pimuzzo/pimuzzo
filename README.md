@@ -33,7 +33,7 @@ TODO
 | JXing-js | My contribution was "transcribing" the implementation of reading EAN-13 from Java (JXing) to TypeScript for this library. I also made several minor adjustments, the most notable was the one related to the sample demo on the project which was not working | [:octocat:](https://github.com/zxing-js/library) [:earth_africa:](https://zxing-js.github.io/library/) |
 | Apache jclouds | I made several adjustments and some new implementations, the most notable PRs were those related to Azure, such as the choice of the type of disks for root and data | [:octocat:](https://github.com/apache/jclouds) [:earth_africa:](http://jclouds.apache.org/) |
 | Microsoft ReactXP | I developed two plugins which I have already mentioned in the side projects section. As for the main project, I made minor adjustments (mainly on the documentation) | [:octocat:](https://github.com/microsoft/reactxp) [:earth_africa:](https://microsoft.github.io/reactxp/) |
-| CNCF Distribution | I’ve collaborated on a PR written in Golang that was inactive. The code’s purpose is to activate “S3 Transfer Acceleration” via the AWS SDK | [:octocat:](https://github.com/distribution/distribution) [:earth_africa:](https://www.docker.com/) |
+| CNCF distribution | I’ve collaborated on a PR written in Golang that was inactive. The code’s purpose is to activate “S3 Transfer Acceleration” via the AWS SDK | [:octocat:](https://github.com/distribution/distribution) [:earth_africa:](https://www.docker.com/) |
 | | | <img width="80"> |
 
 
