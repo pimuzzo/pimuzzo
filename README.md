@@ -4,7 +4,7 @@
 
 📌 &nbsp; I'm from Italy, living in Tuscany
 
-💼 &nbsp; I am currently working at [Engineering D.HUB](https://eng.it/dhub) as software developer on the [Cloudesire](https://www.cloudesire.com/) platform
+💼 &nbsp; I am currently working at [Swascan](https://www.swascan.com) as software developer
 
 <hr>
 
