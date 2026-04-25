@@ -4,7 +4,7 @@
 
 📌 &nbsp; I'm from Italy, living in Tuscany
 
-💼 &nbsp; I am currently working at [Tinexta Cyber](https://www.tinextacyber.com/) as software developer
+💼 &nbsp; I am currently working at [Trimble](https://www.trimble.com/) as software engineer
 
 <hr>
 
